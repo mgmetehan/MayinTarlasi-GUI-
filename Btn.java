@@ -53,4 +53,5 @@ public class Btn extends JButton {
 	public void setBayrak(boolean bayrak) {
 		this.bayrak = bayrak;
 	}
+
 }
