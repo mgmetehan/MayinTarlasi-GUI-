@@ -28,7 +28,6 @@ public class MayinTarlasi implements MouseListener {
 		}
 		bomb();
 		check();
-
 		frame.setSize(800, 800);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
